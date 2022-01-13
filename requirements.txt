@@ -6,6 +6,6 @@ tensorflow_gpu==2.5.2
 numpy==1.18.1
 matplotlib==3.2.1
 Keras==2.3.1
-Pillow==8.3.2
+Pillow==9.0.0
 scikit_learn==0.23.1
 tensorflow==2.5.2
