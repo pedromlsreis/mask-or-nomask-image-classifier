@@ -2,7 +2,7 @@ split_folders==0.3.1
 tqdm==4.46.0
 requests==2.23.0
 six==1.14.0
-tensorflow_gpu==2.5.2
+tensorflow_gpu==2.5.3
 numpy>=1.21
 matplotlib==3.2.1
 Keras==2.3.1
